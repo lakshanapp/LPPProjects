@@ -1,2 +1,2 @@
-# LPPProjects
+# LPProjects
 Test projects
